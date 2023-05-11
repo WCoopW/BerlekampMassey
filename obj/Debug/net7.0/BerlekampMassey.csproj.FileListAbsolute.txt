@@ -1,0 +1,15 @@
+E:\Projects\BerlekampMassey\bin\Debug\net7.0\BerlekampMassey.exe
+E:\Projects\BerlekampMassey\bin\Debug\net7.0\BerlekampMassey.deps.json
+E:\Projects\BerlekampMassey\bin\Debug\net7.0\BerlekampMassey.runtimeconfig.json
+E:\Projects\BerlekampMassey\bin\Debug\net7.0\BerlekampMassey.dll
+E:\Projects\BerlekampMassey\bin\Debug\net7.0\BerlekampMassey.pdb
+E:\Projects\BerlekampMassey\obj\Debug\net7.0\BerlekampMassey.csproj.AssemblyReference.cache
+E:\Projects\BerlekampMassey\obj\Debug\net7.0\BerlekampMassey.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\BerlekampMassey\obj\Debug\net7.0\BerlekampMassey.AssemblyInfoInputs.cache
+E:\Projects\BerlekampMassey\obj\Debug\net7.0\BerlekampMassey.AssemblyInfo.cs
+E:\Projects\BerlekampMassey\obj\Debug\net7.0\BerlekampMassey.csproj.CoreCompileInputs.cache
+E:\Projects\BerlekampMassey\obj\Debug\net7.0\BerlekampMassey.dll
+E:\Projects\BerlekampMassey\obj\Debug\net7.0\refint\BerlekampMassey.dll
+E:\Projects\BerlekampMassey\obj\Debug\net7.0\BerlekampMassey.pdb
+E:\Projects\BerlekampMassey\obj\Debug\net7.0\BerlekampMassey.genruntimeconfig.cache
+E:\Projects\BerlekampMassey\obj\Debug\net7.0\ref\BerlekampMassey.dll

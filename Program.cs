@@ -4,13 +4,17 @@
     {
         static void Main(string[] args)
         {
-
-            var b = new byte[] { 1,0,1,0,1,1,1,1,1,0,1,0,1,1,1,1,1,0,1,0,1 };
-            var k = BerlekampMassey(b);
+            byte[] plainreg = new byte[] { 1, 1, 0, 1, 0, 1 };
+            var b = new byte[] { 1,0,1,0,1,1,1,1,1,0,1,0,1,1,1,1,0,0,1,0,1 };
+            var k = new GaloisField();
+            k.Encoded(plainreg);
+            // 101010
+            var bb = BerlekampMassey(b);
             for (int i = 0; i < 6; i++)
             {
-                Console.Write(k[i]);
+                Console.Write(bb[i]);
             }
+            Console.ReadLine();
             // 1,3,5
         }
         public static byte[] BerlekampMassey(byte[] s)
